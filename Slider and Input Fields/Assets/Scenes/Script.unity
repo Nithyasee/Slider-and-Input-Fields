@@ -1546,7 +1546,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Cube name:
+  m_text: 'Cube Name:
 
 '
   m_isRightToLeft: 0
